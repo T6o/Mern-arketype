@@ -8,6 +8,6 @@ module.exports = {
 
 	sessionSecret: 'developmentSessionSecret',
 	expiresIn:'15m',
-	sendgrid:'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',
+	sendgrid:'',
 
 };
